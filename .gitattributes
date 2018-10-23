@@ -2,3 +2,5 @@
  *.css linguist-language=python
  *.html linguist-language=python
  *.ini linguist-language=python
+ *.csv linguist-language=python
+ *.jl linguist-language=python
